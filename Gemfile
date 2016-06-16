@@ -60,3 +60,4 @@ end
 gem 'slim-rails'
 gem 'config' # Easiest way to add multi-environment yaml settings
 gem 'react-rails'
+gem 'mechanize'
