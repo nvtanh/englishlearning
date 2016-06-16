@@ -18,7 +18,6 @@
 # Ignore schema.rb.
 /db/schema.rb
 
-Gemfile.lock
 .DS_Store
 config/settings.local.yml
 config/settings/*.local.yml
